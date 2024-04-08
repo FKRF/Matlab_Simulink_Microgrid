@@ -1,0 +1,3 @@
+#ifndef CF_MR_CIGRE_RESISTIVO_H__
+#define CF_MR_CIGRE_RESISTIVO_H__
+#endif
